@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/first-five/static/css/main.a7d54a95.css",
+    "main.js": "/first-five/static/js/main.6f079699.js",
+    "index.html": "/first-five/index.html",
+    "main.a7d54a95.css.map": "/first-five/static/css/main.a7d54a95.css.map",
+    "main.6f079699.js.map": "/first-five/static/js/main.6f079699.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7d54a95.css",
+    "static/js/main.6f079699.js"
+  ]
+}
